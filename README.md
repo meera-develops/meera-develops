@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I'm from Orlando, Florida and I specialize in front-end web development 🌐</p>
+<h4 align="left">I'm from Orlando, Florida and I specialize in front-end web development 🌐</h4>
+<h5>Always learning, always coding</h5>
 
 ###
 
