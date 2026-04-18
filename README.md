@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Building web solutions since <b>2022</b><br>📚 I'm currently modifying an existing site to be more user-friendly<br>🎯 Goals: Build an E-commerce site <br>🎲 Fun fact: I've started doing freelance work for web development</p>
+<p align="left">✨ Building web solutions since <b>2022</b><br>📚 I'm currently graduating with my bachelor's degree this semester!<br>🎯 Goals: Build an E-commerce site <br>🎲 Fun fact: I've started doing freelance work for web development</p>
 
 ###
 
