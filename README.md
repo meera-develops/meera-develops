@@ -2,8 +2,9 @@
 
 ###
 
-<h4 align="left">I'm from Orlando, Florida and I specialize in full-stack development 🌐</h4>
-<h5>Always learning, always coding</h5>
+<h4 align="left">Full-Stack Developer building user-focused web applications and exploring software + hardware integration 🌐</h4>
+
+<h5>Combining frontend development, backend systems, and thoughtful design to build practical solutions.</h5>
 
 ###
 
@@ -11,36 +12,56 @@
 
 ###
 
-<p align="left">✨ Building web solutions since <b>2022</b><br>📚 I'm recently graduated with my bachelor's degree in web development this year!<br>🎯 Goals: Build my own personal doorbell camera solution <br>🎲 Fun fact: I go rock climbing in my free time!</p>
+<p align="left">
+✨ Building web applications since <b>2022</b><br>
+🎓 Recently graduated with a bachelor's degree in Web Development from the University of Central Florida<br>
+💻 Passionate about creating full-stack solutions with React, APIs, databases, and modern development workflows<br>
+🚀 Currently building a personal smart camera/doorbell system to explore IoT, computer vision, and backend architecture<br>
+🎨 I enjoy bridging the gap between design and development through UI/UX and frontend engineering<br>
+🧗 Fun fact: I go rock climbing in my free time!
+</p>
 
 ###
 
-<h2 align="left">My Tools & Technologies</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material ui logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</div>
+
+###
+
+<h2 align="left">Currently Exploring</h2>
+
+###
+
+<p align="left">
+🔭 Backend development with APIs and database architecture<br>
+🐧 Linux, Docker, and development environments<br>
+📷 IoT systems, computer vision, and hardware integrations<br>
+☁️ Cloud infrastructure and scalable application design
+</p>
+
 </div>
 
 ###
