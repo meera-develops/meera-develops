@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm from Orlando, Florida and I specialize in front-end web development 🌐</h4>
+<h4 align="left">I'm from Orlando, Florida and I specialize in full-stack development 🌐</h4>
 <h5>Always learning, always coding</h5>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Building web solutions since <b>2022</b><br>📚 I'm currently graduating with my bachelor's degree this semester!<br>🎯 Goals: Build an E-commerce site <br>🎲 Fun fact: I've started doing freelance work for web development</p>
+<p align="left">✨ Building web solutions since <b>2022</b><br>📚 I'm recently graduated with my bachelor's degree in web development this year!<br>🎯 Goals: Build my own personal doorbell camera solution <br>🎲 Fun fact: I go rock climbing in my free time!</p>
 
 ###
 
